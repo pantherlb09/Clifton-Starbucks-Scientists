@@ -1,2 +1,2 @@
 # Clifton-Starbucks-Scientists
-Items from Starbucks meetings
+This is where we're keeping our files from our Starbucks/Currito meetings
