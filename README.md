@@ -3,4 +3,4 @@ This is where we can keep our files from our Starbucks/Currito meetings
 
 Create a branch, edit in the branch, then commit the changes
 
-After making the changes, need to submit a pull request to share your changes
+After committing the changes, need to submit a pull request to share your changes
